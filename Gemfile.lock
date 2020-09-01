@@ -209,7 +209,7 @@ DEPENDENCIES
   pg (>= 0.18, < 2.0)
   puma (~> 4.1)
   rails (~> 6.0.3, >= 6.0.3.2)
-  ruby2d (>= 0.9.4)
+  ruby2d (~> 0.9.4)
   sass-rails (>= 6)
   selenium-webdriver
   spring
